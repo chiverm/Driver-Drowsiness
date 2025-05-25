@@ -17,5 +17,5 @@ This project implements a real-time **Driver Drowsiness Detection System** using
 3. A pre-trained CNN model classifies eye state (open/closed).
 4. If both eyes remain closed for a number of frames, an alarm is triggered to wake the driver.
 
-## 📁 Project Structure
-<pre> ``` ├── haar cascade files/ # Haar XML classifiers for face and eyes ├── models/ # Folder for the trained CNN model (.h5) ├── drowsiness detection.py # Main script for running detection ├── model.py # Script used to train the CNN model ├── alarm.wav # Alarm audio file ├── requirements.txt # Python dependencies ├── README.md # Project documentation └── .gitignore # Git ignore rules ``` </pre>
+
+
